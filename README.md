@@ -41,13 +41,10 @@
 
 ---
 
-### 🧠 Fun Facts
+### 🧠 Featured Projects
 
-- 🧩 I love learning how systems communicate under the hood  
-- 🎮 I enjoy reverse engineering and game modding in my spare time  
-- 🌐 Open-source collaboration motivates me to grow and share  
+- 🚀 [OMNeT++ Routing Optimization](https://github.com/Atakan8479/Routing_Project_OMNeT_)  
 
----
+- 🐶 [Pet Adoption System](https://github.com/Atakan8479/Pet_Adoption_System)  
 
-Thanks for visiting! ⭐ Feel free to explore my repositories and drop a star or a message!
 

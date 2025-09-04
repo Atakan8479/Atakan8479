@@ -6,8 +6,8 @@
 🌍 **From:** Türkiye  
 🎓 **Student at:** Haliç University  
 🌱 **Currently exploring:** Network Simulation with OMNeT++
+📫 **Reach me at:** ozcan8479@gmail.com 
 👨🏻‍💻 **My Portfolio:** https://atakanozcan.netlify.app
-📫 **Reach me at:** ozcan8479@gmail.com  
 
 ---
 

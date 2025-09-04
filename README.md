@@ -59,14 +59,17 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Atakan8479"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atakan8479&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+  <a href="https://github.com/Atakan8479"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atakan8479&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/Atakan8479">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atakan8479&layout=compact&langs_count=10&hide=Jupyter%20Notebook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages&card_width=550"
+          alt="Top Languages"
+          style="width:49%;"
+        />
+      </a>
+</p>
 
-<a href="https://github.com/Atakan8479">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atakan8479&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"
-      alt="Top Languages"
-    />
-  </a>
 
 ---
 

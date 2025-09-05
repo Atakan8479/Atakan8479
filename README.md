@@ -75,6 +75,8 @@
 
 ### 🧠 Featured Projects
 
+- 🛜 [Latency-Aware Host Selection in Simu5G](https://github.com/Atakan8479/Latency-Aware-MEC-Host-Selection-in-Simu5G) 
+
 - 🚀 [OMNeT++ Routing Optimization](https://github.com/Atakan8479/Routing_Project_OMNeT_)  
 
 - 🐶 [Pet Adoption System](https://github.com/Atakan8479/Pet_Adoption_System)  
